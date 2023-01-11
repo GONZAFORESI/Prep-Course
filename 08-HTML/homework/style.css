@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(16, 34, 227);
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    image-rendering: 400 x 267px;
+    display: flexbox;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: solid black 10px;
+    background-color: rgb(171, 208, 194);
+    margin: 0px auto;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: flex; justify-content: center;
+}
+
+a{
+    display: flex; justify-content: center;
+}
+
+body{
+    
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/85/Burger_King_logo_%281999%29.svg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+
+
+}
