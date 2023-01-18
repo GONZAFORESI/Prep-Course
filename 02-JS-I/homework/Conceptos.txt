@@ -1,0 +1,18 @@
+Explicación de los siguientes conceptos:
+
+Variables: Es una forma de almacenar el valor de algo para usarlo más tarde. 
+En JavaScript se utiliza la palabra clave "var" seguida de un espacio y el nombre de la variable. Además de declarar una variable, podemos asignarle un valor anteponiendo a éste el símbolo =.
+Hay 3 tipos de variables: var, ley y const.
+Var: Define una variable global o local en una función sin importar el ámbito del bloque.
+Let: Permite declarar variables limitando su alcance (scope) al bloque, declaración, o expresión donde se está usando.
+Const: Es una variable que no se podrá cambiar.
+
+Strings: Son bloques de texto que siempre deben definirse entre comillas (dobles o simples).
+
+Funciones: Una función es similar a un procedimiento; es un conjunto de instrucciones que realiza una tarea o calcula un valor y que debe tomar alguna entrada y devolver una salida con una relación obvia. 
+Argumentos: Son los valores que le introducimos a una función. 
+Return: Es una sentencia que finaliza la ejecución de la función y especifica un valor para ser devuelto.
+
+Declaraciones if: se utilizan para evaluar una expresión condicional. Si se cumple la condición (si la misma es verdadera), ejecutará un bloque de código. Si es falsa, es posible ejecutar otras sentencias.
+
+Valores booleanos (true, false): Una valor booleano representa un valor de verdad; es decir, true o false. 

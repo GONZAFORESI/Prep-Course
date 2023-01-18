@@ -1,0 +1,29 @@
+Explicación de los siguientes conceptos:
+
+for: es una estructura de control en la que se puede indicar de antemano el número máximo de iteraciones. 
+
+Este tipo de bucle se repetirá hasta que le indiquemos que lo deje de hacer. 
+
+La condición consta de tres partes:
+
+Inicio: se debe inicializar una variable que será evaluada en la expresión a comparar. Esta variable puede ser declarada dentro o fuera de la condición.
+Comparación: es una expresión que debe cumplir la variable inicial, cuando no se cumpla, el ciclo termina.
+Pasos: son los intervalos que cambiará la variable inicial, mientras cumpla con la expresión de comparación.
+
+&&: Operador lógico "Y" (en inglés: "AND"). Este operador lógico compara dos expresiones. Si la primera se evalúa como "verdadera" (true), la sentencia devolverá el valor de la segunda expresión. 
+Si la primera expresión se evalúa como "falsa"(false), la sentencia devolverá el valor de la primera expresión.
+
+Cuando solo se incluyen valores booleanos (true o false), se devuelve verdadero si las dos expresiones son verdaderas. 
+Si una o ambas expresiones son falsas, la sentencia completa se devolverá como falsa.
+
+||: Operador lógico "O" (en inglés: "OR") Al igual que el anterior, compara dos expresiones. Si la primera se evalúa como "falsa", la sentencia devolverá el valor de la segunda expresión. 
+Si la primera se evalúa como "verdadera", la sentencia devolverá el valor de la primera expresión.
+
+Cuando solo se incluyen valores booleanos (true o false), se devuelve como true si cualquiera de las dos expresiones son verdaderas. 
+Ambas expresiones pueden ser verdaderas, pero solo se necesita una para que el resultado sea verdadero.
+
+!: Operador lógico "NO" (En inglés, "NOT"). El operador lógico NOT no realiza ninguna comparación como lo hacen los operadores AND y OR que fueron desarrollados anteriormente.
+Se utiliza para operar en solo un operando. El símbolo de representación es "!" (signo de exclamación).
+Usos del operador NOT:
+- Convertir la expresión en un booleano.
+- Devolver el valor contrario del booleano obtenido en el último paso.
