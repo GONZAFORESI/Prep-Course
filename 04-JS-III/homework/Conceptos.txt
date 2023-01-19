@@ -1,0 +1,6 @@
+Explicación del siguiente concepto:
+
+Arrays: (traducción: Arreglos), son una lista de elementos ordenados. Su patrón se encuentra dentro de corchetes y proporciona métodos para efectuar operaciones de recorrido y de mutación.
+Javascript permite que se puedan realizar arrays de tipo mixto, no siendo obligatorio que todos los elementos sean del mismo tipo de dato, tal es así que dentro del mismo podemos encontrar números, strings, valores booleanos, funciones, otros arrays, etc.
+Cada elemento que integra un Array ocupa una posición la cual se empieza a contar desde el 0. Para saber el número elementos que tiene un array hay que acceder a la propiedad .length, que nos devolverá el número de elementos existentes en su interior.
+Existen, entre otras opciones, dos métodos tanto para insertar o eliminar elementos de un array. Estos son los métodos .push() y .pop() respectivamente y se insertan al final del array. Cabe aclarar que el método .pop() antes de eliminar el objeto que invocamos, lo muestra en pantalla. 
