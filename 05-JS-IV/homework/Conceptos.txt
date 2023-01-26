@@ -1,0 +1,13 @@
+Explicación de los siguientes conceptos:
+
+Objetos: Un objeto es un contenedor de propiedades, donde una propiedad tiene un nombre y un valor. Contienen mucha información sobre una sola cosa y se inician abriendo llaves {}.
+
+Propiedades: Una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser un número, un string, un array, como así también puede ser una función, en cuyo caso la propiedad es conocida como un método.
+
+Métodos: Los métodos son las funciones que encontramos dentro de un objeto, y que permite efectuar el objeto y nos rinden algún tipo de servicio durante el transcurso del programa. Determinan a su vez como va a responder el objeto cuando recibe un mensaje.
+
+Bucle for…in: Tipo de bucle utilizado para recorrer todas las propiedades enumerables de un objeto de manera tal que se puede acceder a los nombres de las propiedades del objeto. Gracias al bucle, el código que se incluye dentro del for se ejecutará una vez por cada una de las propiedades del objeto.
+
+Notación de puntos vs notación de corchetes: En JavaScript hay dos formas de acceder a un objeto. Una de ellas es la notación con punto, donde el valor de la propiedad debe estar declarado dentro del objeto. 
+La otra, es la notación con corchetes. Para usar esta notación, se debe escribir el nombre del objeto seguido de corchetes []. Dentro de los corchetes, va el nombre de la propiedad como una string.
+La notación con corchetes, a diferencia de la notación con punto, puede usarse con variables.
